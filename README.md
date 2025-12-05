@@ -12,48 +12,48 @@ Presentation1
 🏗️ Database Design
 1. Students Table
 
-Stores student details such as ID, name, email, and class year.
-Each student is uniquely identified and linked to their answers and results.
+  Stores student details such as ID, name, email, and class year.
+  Each student is uniquely identified and linked to their answers and results.
 
 
 Presentation1
 
 2. Subjects Table
 
-Maintains a list of academic subjects, each identified by a unique subject ID.
-Used to connect exams with subjects.
+  Maintains a list of academic subjects, each identified by a unique subject ID.
+  Used to connect exams with subjects.
 
 
 Presentation1
 
 3. Exams Table
 
-Holds exam details such as exam ID, subject ID, date, and duration.
-Enables mapping between subjects and their scheduled exams.
+  Holds exam details such as exam ID, subject ID, date, and duration.
+  Enables mapping between subjects and their scheduled exams.
 
 
 Presentation1
 
 4. Questions Table
 
-Stores all questions belonging to specific exams, including correct answer options.
-Supports multiple-choice exam structures.
+  Stores all questions belonging to specific exams, including correct answer options.
+  Supports multiple-choice exam structures.
 
 
 Presentation1
 
 5. Answers Table
 
-Captures each student's selected answer for every question.
-Used to evaluate performance by comparing with correct answers.
+  Captures each student's selected answer for every question.
+  Used to evaluate performance by comparing with correct answers.
 
 
 Presentation1
 
 6. Results Table
 
-Stores final marks, grades, and overall performance metrics for each student–exam pair.
-Supports analytics and reporting.
+  Stores final marks, grades, and overall performance metrics for each student–exam pair.
+  Supports analytics and reporting.
 
 
 Presentation1
