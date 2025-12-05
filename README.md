@@ -1,5 +1,3 @@
-# Online-Examination-System
-A SQL-based Online Examination System featuring structured tables, relationships, joins, subqueries, and views to manage exams, student responses, and automated result evaluation.
 🧪 Online Examination System – SQL Project
 
 A complete SQL-based system designed to manage online examinations efficiently.
