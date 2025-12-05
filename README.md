@@ -33,3 +33,6 @@ Practical database design
 Real-world exam data workflow
 
 Reporting-ready SQL queries
+
+<img width="1438" height="808" alt="image" src="https://github.com/user-attachments/assets/38ad3d4f-6c7c-44f7-98b1-3f96c6ae816b" />
+
