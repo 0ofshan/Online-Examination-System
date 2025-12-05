@@ -3,7 +3,6 @@
 A structured SQL project that simulates an Online Examination System with complete exam, student, and result management. The database is designed with proper relations, constraints, and analytical queries.
 
 
-Presentation1
 
 🔹 Features
 
@@ -16,7 +15,6 @@ Clean relational model with primary–foreign keys
 Analytical SQL queries using JOINs, Subqueries & Views
 
 
-Presentation1
 
 🔹 SQL Highlights
 
@@ -27,7 +25,6 @@ Subqueries for filtering top scorers, low performers, averages
 Views for reusable reports (student result view, top performers)
 
 
-Presentation1
 
 🔹 What This Project Shows
 
